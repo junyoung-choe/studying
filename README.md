@@ -1,2 +1,2 @@
 # studying
-Summary of what I studied on my own
+공부한 내용을 정리 해놓습니다.
