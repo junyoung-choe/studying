@@ -1,2 +1,7 @@
 # studying
-공부한 내용을 정리 해놓습니다.
+Summary of what I studied on my own
+
+CS
+HTTP
+Spring
+관련한 지식들을 공부하고 정리해놓고 있습니다.
