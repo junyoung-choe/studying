@@ -37,3 +37,4 @@ public class ApiExceptionController {
 ```
 
 즉 해당 오류가 발생시에 해당 컨트롤러가 매핑된다 ! 
+Spring 이 제공하는 예외 처리는 AWS 를 거치지 않고 바로 해당 에러 컨트롤러에 매핑된다 ! 
